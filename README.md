@@ -1,0 +1,2 @@
+# redding-weekly
+Redding Weekly
